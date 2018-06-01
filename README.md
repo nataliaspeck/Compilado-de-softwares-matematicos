@@ -10,3 +10,5 @@ Este pack contém arquivos executáveis para variados cálculos básicos de lóg
 - Cálculo do seno de um ângulo (em radianos) por meio da Série de Taylor
 - Cálculo da média aritmética e da média harmônica entre n valores
 - Apresentação de todos os divisores de um dado número
+- Cálculo do fatorial de um número
+- Somatória, a soma dos quadrados e a média dos n primeiros números naturais
